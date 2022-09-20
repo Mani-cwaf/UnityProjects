@@ -8,7 +8,7 @@
             The best horror game ever, trust me.
         </td>
         <td width="13%">
-            <a href="https://mani-dev101.itch.io/sustainable-cities"><img alt="Play" src="https://github.com/Mani-cwaf/SustainableCitiesProject/blob/main/Project/PlayIcon.png?raw=true"></a>
+            <a href="https://mani-dev101.itch.io/horror-maze"><img alt="Play" src="https://github.com/Mani-cwaf/SustainableCitiesProject/blob/main/Project/PlayIcon.png?raw=true"></a>
         </td>
         <td width="13%">
             <a href="https://github.com/Mani-cwaf/HorrorMazeProject/releases/latest/download/HorrorMazeProject.zip"><img alt="Download" src="https://github.com/Mani-cwaf/HorrorMazeProject/blob/main/Project/DownloadIcon.png?raw=true"></a>
