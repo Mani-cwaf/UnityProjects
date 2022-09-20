@@ -2,7 +2,7 @@
 <table style="table-layout">
     <tr>
         <td width="30%" align="center">
-            <h2>Horror Maze Project</h2>
+            <h2>Horror Maze</h2>
         </td>
         <td>
             The best horror game ever, trust me.
