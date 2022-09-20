@@ -1,8 +1,8 @@
 # UnityProjects
-<table style="table-layout:fixed">
+<table style="table-layout">
     <tr>
         <td width="30%" align="center">
-            <h2>HorrorMazeProject</h2>
+            <h2>Horror Maze Project</h2>
         </td>
         <td>
             The best horror game ever, trust me.
@@ -14,10 +14,10 @@
             <a href="https://github.com/Mani-cwaf/SustainableCitiesProject/releases/latest/download/SustainableCitiesProject-Windows.zip"><img alt="Download" src="https://github.com/Mani-cwaf/SustainableCitiesProject/blob/main/Project/DownloadIcon.png?raw=true"></a>
         </td>
     </tr>
-<table style="table-layout:fixed">
+<table style="table-layout">
     <tr>
         <td width="30%" align="center">
-            <h2>SustainableCitiesProject</h2>
+            <h2>Sustainable Cities</h2>
         </td>
         <td>
             A simple city builder game revolving around the topic of sustainable cities for a school project.
