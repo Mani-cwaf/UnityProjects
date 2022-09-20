@@ -11,7 +11,7 @@
             <a href="https://mani-dev101.itch.io/sustainable-cities"><img alt="Play" src="https://github.com/Mani-cwaf/SustainableCitiesProject/blob/main/Project/PlayIcon.png?raw=true"></a>
         </td>
         <td width="13%">
-            <a href="https://github.com/Mani-cwaf/HorrorMazeProject/releases/latest/download/HorrorMazeProject-Windows.zip"><img alt="Download" src="https://github.com/Mani-cwaf/HorrorMazeProject/blob/main/Project/DownloadIcon.png?raw=true"></a>
+            <a href="https://github.com/Mani-cwaf/HorrorMazeProject/releases/latest/download/HorrorMazeProject.zip"><img alt="Download" src="https://github.com/Mani-cwaf/HorrorMazeProject/blob/main/Project/DownloadIcon.png?raw=true"></a>
         </td>
     </tr>
 <table style="table-layout">
@@ -26,6 +26,6 @@
             <a href="https://mani-dev101.itch.io/sustainable-cities"><img alt="Play" src="https://github.com/Mani-cwaf/SustainableCitiesProject/blob/main/Project/PlayIcon.png?raw=true"></a>
         </td>
         <td width="13%">
-            <a href="https://github.com/Mani-cwaf/SustainableCitiesProject/releases/latest/download/SustainableCitiesProject-Windows.zip"><img alt="Download" src="https://github.com/Mani-cwaf/SustainableCitiesProject/blob/main/Project/DownloadIcon.png?raw=true"></a>
+            <a href="https://github.com/Mani-cwaf/SustainableCitiesProject/releases/latest/download/SustainableCitiesProject.zip"><img alt="Download" src="https://github.com/Mani-cwaf/SustainableCitiesProject/blob/main/Project/DownloadIcon.png?raw=true"></a>
         </td>
     </tr>
